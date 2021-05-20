@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm currently learning to manage OPENUI5.
 
 <!--
 **jerry-5194/jerry-5194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
